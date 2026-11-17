@@ -95,5 +95,5 @@ Quy tắc: tiền và phê duyệt luôn chấm bằng code. Judge chỉ dùng c
 ## Phê duyệt
 | Vai trò | Tên | Ngày |
 |---|---|---|
-| Product | (chờ duyệt) | |
-| Eval owner (giữ gate) | Nguyễn Khắc Khánh (chờ xác nhận) | |
+| Product | Nguyễn Khắc Khánh (bài cá nhân, kiêm vai trò Product) | 2026-11-17 |
+| Eval owner (giữ gate) | Nguyễn Khắc Khánh (`khackhanh1201`) | 2026-11-17 |
