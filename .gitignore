@@ -3,3 +3,14 @@ __pycache__/
 src/reports/
 src/traces/
 *.sqlite
+
+# From the Lab 8 repo (src/ copied from VinUni-AI20k/K5-Day8-From-Workflows-to-Agents)
+.env
+.env.*
+!.env.example
+.venv/
+.pytest_cache/
+.DS_Store
+*.sqlite-*
+student_drop/
+src/eval/instructor/
